@@ -1,0 +1,32 @@
+[
+    {
+        "Departure": "Stockholm",
+        "Arrival": "New York",
+        "Transport": "Plane",
+        "Number": "SK22",
+        "Seat": "7B",
+        "Gate": "22"
+    },
+    {
+        "Departure": "Madrid",
+        "Arrival": "Barcelona",
+        "Transport": "Train",
+        "Number": "78A",
+        "Seat": "45B"
+    },
+    {
+        "Departure": "Gerona Airport",
+        "Arrival": "Stockholm",
+        "Transport": "Plane",
+        "Number": "SK455",
+        "Seat": "3A",
+        "Gate": "45B",
+        "Baggage": "334"
+    },
+    {
+        "Departure": "Barcelona",
+        "Arrival": "Gerona Airport",
+        "Transport": "Bus"
+    }
+
+]
